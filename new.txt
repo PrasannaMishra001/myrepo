@@ -1,5 +1,6 @@
 check check changes
 new change
+new change 2
 > Reviewing the history of commits(or repo history):
 empty repo->file modify->commit1->modify->commit2->modify->commit3->modify .......
 sha id(or hash id of a commit) : git log and enter and Q to exit( git log -3 to see last 3 commits)
