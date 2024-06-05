@@ -1,0 +1,7 @@
+> Reviewing the history of commits(or repo history):
+empty repo->file modify->commit1->modify->commit2->modify->commit3->modify .......
+sha id(or hash id of a commit) : git log and enter and Q to exit( git log -3 to see last 3 commits)
+git log -p(shows git diff as well)
+git log --oneline (to see commit id and name only and to search easily in one watch)
+similarly, git log --stat 
+git show <shaid> : to see change sin a particular commit
